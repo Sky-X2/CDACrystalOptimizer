@@ -4,6 +4,6 @@ public class CrystalOptimizer {
     public static final String MOD_ID = "crystaloptimizer";
 
     public static void init() {
-        // N/A
+        // 1.19.x
     }
 }
