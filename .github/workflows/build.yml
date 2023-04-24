@@ -40,7 +40,7 @@ jobs:
       - uses: actions/upload-artifact@v3
         with:
           name: artifacts
-          path: build/libs/*.jar
+          path: build/libs/crystaloptimizer-1.0.0.jar
 
       - name: stop daemon
         run: ./gradlew --stop
