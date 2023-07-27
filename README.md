@@ -1,6 +1,6 @@
 # CrystalOptimizer
 Fork of CDAGaming's Optimizer which is based of Marlow's.
-No major changes will be made here, any changes upstreamed will be merged ASAP.
+No major changes will be made here other than porting, any changes upstreamed will be merged ASAP.
 This is purely due to the expiration of Action artifacts.
 
 ## Why not just upload the built files via releases?
