@@ -1,2 +1,2 @@
 # CrystalOptimizer
-1.18.x
+1.17.x
